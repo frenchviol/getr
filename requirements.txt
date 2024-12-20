@@ -1,0 +1,5 @@
+Flask
+websockets
+pytz
+termcolor
+nest_asyncio
